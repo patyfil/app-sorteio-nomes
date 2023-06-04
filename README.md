@@ -1,5 +1,11 @@
 # APP Sorteio - Maratona Kenzie 
 
+<p align="center">
+  <img src="./assets/img/desktop.png">
+  <img src="./assets/img/mobile.png" width="300"/>
+</p>
+
+
 Projeto desenvolvido para o evento Maratona Kenzie.
 
 ## Ferramentas
